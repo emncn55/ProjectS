@@ -1,0 +1,7 @@
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
