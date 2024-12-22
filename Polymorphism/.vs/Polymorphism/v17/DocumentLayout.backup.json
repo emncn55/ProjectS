@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canem\\Desktop\\Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BBC53-745C-419D-8F1B-4D28E6B954BE}|Polymorphism\\Polymorphism.csproj|c:\\users\\canem\\desktop\\polymorphism\\polymorphism\\polymorphismtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BBC53-745C-419D-8F1B-4D28E6B954BE}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\polymorphismtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BBC53-745C-419D-8F1B-4D28E6B954BE}|Polymorphism\\Polymorphism.csproj|c:\\users\\canem\\desktop\\polymorphism\\polymorphism\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BBC53-745C-419D-8F1B-4D28E6B954BE}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BBC53-745C-419D-8F1B-4D28E6B954BE}|Polymorphism\\Polymorphism.csproj|c:\\users\\canem\\desktop\\polymorphism\\polymorphism\\basepluscommissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BBC53-745C-419D-8F1B-4D28E6B954BE}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\basepluscommissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolymorphismTest.cs",
+              "DocumentMoniker": "C:\\Users\\canem\\Desktop\\Polymorphism\\Polymorphism\\PolymorphismTest.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\PolymorphismTest.cs",
+              "ToolTip": "C:\\Users\\canem\\Desktop\\Polymorphism\\Polymorphism\\PolymorphismTest.cs",
+              "RelativeToolTip": "Polymorphism\\PolymorphismTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:30:10.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\canem\\Desktop\\Polymorphism\\Polymorphism\\CommissionEmployee.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\CommissionEmployee.cs",
+              "ToolTip": "C:\\Users\\canem\\Desktop\\Polymorphism\\Polymorphism\\CommissionEmployee.cs",
+              "RelativeToolTip": "Polymorphism\\CommissionEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:30:09.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePlusCommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\canem\\Desktop\\Polymorphism\\Polymorphism\\BasePlusCommissionEmployee.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\BasePlusCommissionEmployee.cs",
+              "ToolTip": "C:\\Users\\canem\\Desktop\\Polymorphism\\Polymorphism\\BasePlusCommissionEmployee.cs",
+              "RelativeToolTip": "Polymorphism\\BasePlusCommissionEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:30:07.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
