@@ -1,0 +1,7 @@
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Collections\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Collections\Collections\obj\Debug\Collections.pdb
