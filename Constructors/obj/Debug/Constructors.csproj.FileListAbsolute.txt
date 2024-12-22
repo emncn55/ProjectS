@@ -1,0 +1,7 @@
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Constructors\bin\Debug\Constructors.exe
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Constructors\bin\Debug\Constructors.pdb
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Constructors\obj\Debug\Constructors.exe
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Constructors\obj\Debug\Constructors.pdb
