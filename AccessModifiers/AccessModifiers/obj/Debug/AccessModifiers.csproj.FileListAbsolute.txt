@@ -1,0 +1,7 @@
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
