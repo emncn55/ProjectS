@@ -1,0 +1,7 @@
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\AbstractClasses\obj\Debug\AbstractClasses.pdb

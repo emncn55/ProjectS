@@ -1,0 +1,7 @@
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

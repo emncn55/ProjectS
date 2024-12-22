@@ -1,0 +1,7 @@
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\canem\Desktop\Visual Programming with C#\C#-KENDİ ÇALIŞMALARIM\Inheritance\RecapDemo2\obj\Debug\RecapDemo2.pdb
