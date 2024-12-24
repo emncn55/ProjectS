@@ -1,0 +1,7 @@
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\Projelerim-C#\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\Projelerim-C#\CSharpCourse\Generics\bin\Debug\Generics.exe
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\Projelerim-C#\CSharpCourse\Generics\bin\Debug\Generics.pdb
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\Projelerim-C#\CSharpCourse\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\Projelerim-C#\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\Projelerim-C#\CSharpCourse\Generics\obj\Debug\Generics.exe
+C:\Users\canem\Desktop\3.Sınıf-1\Visual Programming with C#\Projelerim-C#\CSharpCourse\Generics\obj\Debug\Generics.pdb
